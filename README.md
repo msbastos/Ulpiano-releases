@@ -4,6 +4,9 @@ Instalador do **Ulpiano**, que prepara o dossiê de decisão a partir do PDF dos
 
 **Baixar:** [Ulpiano-Setup.exe](https://github.com/msbastos/Ulpiano-releases/releases/latest/download/Ulpiano-Setup.exe) (uns 140 MB; sempre a versão mais recente). Para conferir o arquivo, compare o SHA-256 com o `SHA256SUMS.txt` da [página da release](https://github.com/msbastos/Ulpiano-releases/releases/latest).
 
+> ### 📘 [Guia de instalação passo a passo](https://claude.ai/artifact/4ScbNbCirbCRVwpPSQQDcm)
+> Abra o guia ao lado do instalador: ele mostra cada tela, com caixas para marcar o que já foi feito.
+
 Este repositório só distribui as versões liberadas. O desenvolvimento acontece em outro lugar. O programa é software livre (AGPL-3.0); o código-fonte Python segue dentro do próprio instalador, na pasta de instalação, junto do `LICENSE` e dos créditos.
 
 ---
