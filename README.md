@@ -16,13 +16,17 @@ que ela diz.
 
 ## 1. O que você precisa
 
-- **Windows 10 ou 11**, de 64 bits (qualquer computador dos últimos anos).
+- **Windows 10 (versão 1809 ou mais nova) ou 11**, de 64 bits (qualquer
+  computador dos últimos anos).
 - Uma **assinatura paga do Claude** (Pro, Max, Team ou Enterprise), com o uso
   dos seus dados em treinamento desligado.
 - Para a leitura das páginas digitalizadas dos autos pela Mistral, uma
   **conta na Mistral** com pagamento por uso e a coleta de dados desligada.
   O Ulpiano explica como, na hora certa.
 - Internet só para baixar o instalador e, se você quiser, o Claude Code.
+- **Opcional:** uma chave da **TypeSafe**, só se você quiser ligar o
+  classificador auxiliar (Jev), que vem desligado. Ele se liga depois, em
+  **Configurações**, com uma ciência própria; não faz parte da instalação.
 
 **Você não precisa de administrador** e não precisa instalar mais nada: o
 instalador já traz tudo o que o Ulpiano usa.
@@ -87,7 +91,7 @@ Ao abrir, o Ulpiano aparece no navegador, numa janela só dele, e conduz os
    **Continuar**.
 4. **Leitura dos autos** — a chave da Mistral, testada e guardada com
    segurança no Gerenciador de Credenciais do Windows.
-5. **Claude** — as quatro skills que você envia à sua conta do Claude e, se
+5. **Claude** — as cinco skills que você envia à sua conta do Claude e, se
    não o instalou antes, o botão **Instalar o Claude Code**.
 6. **Entendimentos** — como você quer as minutas: agora ou depois.
 7. **Tudo pronto** — o ciclo de cada processo, em seis passos.
@@ -114,6 +118,12 @@ continuar depois, abrindo o Ulpiano pelo atalho ou pelo menu Iniciar.
 Quando houver versão nova, uma faixa no alto do Ulpiano avisa e traz o link.
 Baixe o novo `Ulpiano-Setup.exe` e rode-o **com o Ulpiano fechado**. As suas
 configurações e os seus Entendimentos ficam.
+
+As notas de cada versão dizem se as **skills** mudaram. Se mudaram, envie de
+novo à sua conta do Claude os arquivos `.skill` indicados, como no passo
+**Claude** dos Primeiros passos; sem isso, as minutas seguem com a skill
+antiga. Se o aviso de proteção dos dados mudar, o Ulpiano pede a ciência de
+novo ao abrir.
 
 ## 8. Desinstalar
 
